@@ -1,0 +1,27 @@
+Project 8a
+30 to >29 pts
+Full Marks
+Meets Criterion
+29 to >0 pts
+Partly meets criterion
+0 pts
+No Marks
+30 / 30 pts
+Project 8b
+70 to >69 pts
+Full Marks
+Meets Criterion
+69 to >0 pts
+Partly meets criterion
+0 pts
+No Marks
+Comments
+-2: bubbleSort() needed to be named bubble_sort() to run correctly
+68 / 70 pts
+Deductions
+0 pts
+Full Marks
+0 pts
+No Marks
+-- / 0 pts
+Total Points: 98
